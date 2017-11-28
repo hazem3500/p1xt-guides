@@ -55,6 +55,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)  
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages  
 - [ ]  Book: [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)  - no longer available - use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
+- [ ]  Course: [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)    
 - [ ]  Visit the Angular, React and Vue web pages, work through their tutorials, and get a sense of how they differ and which you prefer. From here on out, try to use one of them on each frontend where it makes sense to do it as a single page app. Lean towards your favorite on most projects, but use each of the other two in at least one project before finishing the guide.
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 - [ ]  Project: Clone Reddit
@@ -75,6 +76,8 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 
 
 ## Tier 4 - polish the rough edges
+- [ ]  Course: [Computer Architecture](https://www.coursera.org/course/comparch) 
+- [ ]  Course: [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)   
 - [ ]  Project: Read up on [Travis CI](https://travis-ci.org/) - try to incorporate it into any project in active development or which you intend to keep running on the web
 - [ ]  Course: [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)   
 - [ ]  Project: Clone Twitter - yes, all the functionality
