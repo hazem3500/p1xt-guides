@@ -68,7 +68,11 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) 
 - [ ]  Project: Write the CSS Necessary to create your own 12 column based grid layout - see [here](http://960.gs/) for an example
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
+- [ ]  Course: [Cryptography I](https://www.coursera.org/course/crypto)       
+- [ ]  Project: Complete all challenges from the [Code Jam Round 2 2015](https://code.google.com/codejam/contest/8234486/dashboard)
+- [ ]  Course: [Cryptography II](https://www.coursera.org/course/crypto2) 
 - [ ]  Project: Clone FaceBook - yes, all the functionality. See [here](http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project) for a list of requirements you should fullfill.
+
 
 ## Tier 4 - polish the rough edges
 - [ ]  Project: Read up on [Travis CI](https://travis-ci.org/) - try to incorporate it into any project in active development or which you intend to keep running on the web
