@@ -39,14 +39,14 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page  
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ]  Article: Read Algorithms and Flowcharts and then familiarize yourself with Pencil ... start flowcharting complex portions of your code logic as part of your documentation
-- [ ]  Book: Think Java - How to Think Like a Computer Scientist
-- [ ]  Project: Build the Pomodoro project from the FCC frontend curriculum
-- [ ]  Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation       
+- [ ]  Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation   
+- [ ]  Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/) 
+- [ ]  Project: Build the Pomodoro project from the FCC frontend curriculum   
 - [ ]  Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.    
 - [ ]  Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript        
 - [ ]  Book:  [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ]  Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
-- [ ]  Course: UX Design for Mobile Developers
+- [ ]  Course: [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 
 ## Tier 3 - build on the foundation
@@ -69,8 +69,8 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 - [ ]  Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [ ]  Project: Clone the Netflix interface- pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
-- [ ]  Course: Intro to Theoretical Computer Science
-- [ ]  Course: Introduction to Probability - The Science of Uncertainty
+- [ ]  Course: [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)   
+- [ ]  Course: [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)    
 - [ ]  Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) 
 - [ ]  Project: Write the CSS Necessary to create your own 12 column based grid layout - see [here](http://960.gs/) for an example
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
@@ -91,9 +91,9 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course: [Machine Learning](https://www.coursera.org/learn/machine-learning)  
 - [ ]  Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it inculde a substantial AI component.
 - [ ]  Project: Complete all Classic Puzzles - Very Hard on [CodinGame](https://www.codingame.com/) in JavaScript
-- [ ]  Course: Operating Systems and System Programming
-- [ ]  Course: Compilers
-- [ ]  Course: Introduction to Natural Language Processing
+- [ ]  Course: [Operating Systems and System Programming](http://theopenacademy.com/content/operating-systems-and-system-programming)  
+- [ ]  Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)    
+- [ ]  Course: [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)   
 - [ ]  Project: Create a node module that will convert markdown to properly formatted html
 - [ ]  Project: Create an npm module that bootstraps a fullstack application, with Node.js on the backend, and the SPA library/framework of your choice on the frontend. Include a full test suite and comprehensive build processes. Publish it to NPM.
 - [ ]  Project: Complete all problems from all rounds of the [Google Code Jam 2016](https://code.google.com/codejam/contests.html) - scroll down to the appropriate section
