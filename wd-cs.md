@@ -38,7 +38,6 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page  
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
-- [ ]  Article: Read Algorithms and Flowcharts and then familiarize yourself with Pencil ... start flowcharting complex portions of your code logic as part of your documentation
 - [ ]  Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation   
 - [ ]  Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/) 
 - [ ]  Project: Build the Pomodoro project from the FCC frontend curriculum   
