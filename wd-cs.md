@@ -30,6 +30,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 - [ ]  Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 - [ ]  Book:  [DOM Enlightenment](http://domenlightenment.com/)    
+- [ ]  Course:  [CSS3 Master Series: CSS Animations, Transforms & Transitions](https://www.udemy.com/css3-master-series-css-animations-transforms-transitions/?siteID=SAyYsTvLiGQ-LGxXd4EvbvqSAgZMUt6VyQ&LSNPUBID=SAyYsTvLiGQ)  
 - [ ]  Project:  Simon Game from the frontend section of FCC    
 - [ ]  Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
 - [ ]  Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
