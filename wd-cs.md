@@ -21,6 +21,9 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)    
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)  
 - [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
+- [ ]  Course:  [CSS3 Master Series: The Complete CSS Selectors Course](https://www.udemy.com/css3-master-series-css3-selectors-mastery/) 
+- [ ]  Course:  [CSS3 Master Series: CSS Animations, Transforms & Transitions](https://www.udemy.com/css3-master-series-css-animations-transforms-transitions/?siteID=SAyYsTvLiGQ-LGxXd4EvbvqSAgZMUt6VyQ&LSNPUBID=SAyYsTvLiGQ)  
+- [ ]  Course:  [Mastering CSS Animations](https://app.pluralsight.com/library/courses/mastering-css-animations-2135/table-of-contents)
 - [ ]  Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10,  and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 
@@ -29,9 +32,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)    
 - [ ]  Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 - [ ]  Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
-- [ ]  Book:  [DOM Enlightenment](http://domenlightenment.com/)  
-- [ ]  Course:  [CSS3 Master Series: The Complete CSS Selectors Course](https://www.udemy.com/css3-master-series-css3-selectors-mastery/) 
-- [ ]  Course:  [CSS3 Master Series: CSS Animations, Transforms & Transitions](https://www.udemy.com/css3-master-series-css-animations-transforms-transitions/?siteID=SAyYsTvLiGQ-LGxXd4EvbvqSAgZMUt6VyQ&LSNPUBID=SAyYsTvLiGQ)  
+- [ ]  Book:  [DOM Enlightenment](http://domenlightenment.com/)   
 - [ ]  Project:  Simon Game from the frontend section of FCC    
 - [ ]  Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
 - [ ]  Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
