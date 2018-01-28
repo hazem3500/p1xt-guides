@@ -21,6 +21,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) 
 - [ ]  Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)    
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)  
+- [ ]  Book: [Eloquent JavaScript](https://eloquentjavascript.net/) 
 - [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 - [ ]  Course:  [CSS3 Master Series: The Complete CSS Selectors Course](https://www.udemy.com/css3-master-series-css3-selectors-mastery/) 
 - [ ]  Course:  [CSS3 Master Series: CSS Animations, Transforms & Transitions](https://www.udemy.com/css3-master-series-css-animations-transforms-transitions/?siteID=SAyYsTvLiGQ-LGxXd4EvbvqSAgZMUt6VyQ&LSNPUBID=SAyYsTvLiGQ)  
