@@ -21,7 +21,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [x]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template (needs polish and adding other tabs) [link](https://potato-resume.surge.sh/) 
 - [x]  Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects 
 - [x]  Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)   
-- [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)  
+- [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix) (Too heavy, read later)  
 - [ ]  Book: [Eloquent JavaScript](https://eloquentjavascript.net/) 
 - [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 - [ ]  Course:  [CSS3 Master Series: The Complete CSS Selectors Course](https://www.udemy.com/css3-master-series-css3-selectors-mastery/) 
