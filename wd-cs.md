@@ -22,7 +22,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [x]  Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects 
 - [x]  Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)   
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix) (Too heavy, read later)  
-- [ ]  Book: [Eloquent JavaScript](https://eloquentjavascript.net/) (Review chapter 11, 12) 
+- [ ]  Book: [Eloquent JavaScript](https://eloquentjavascript.net/) (Review chapter 11, 12, 16) 
 - [ ]  Course: [Web Programming with Python and JavaScript produced by CS50](https://cs50.github.io/web/)
 - [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 - [ ]  Course:  [CSS3 Master Series: The Complete CSS Selectors Course](https://www.udemy.com/css3-master-series-css3-selectors-mastery/) 
