@@ -56,6 +56,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
 - [ ]  Course: [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
+- [ ]  Project: [Javascript30](https://javascript30.com/)
 
 ## Tier 3 - build on the foundation
 - [ ]  Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    
