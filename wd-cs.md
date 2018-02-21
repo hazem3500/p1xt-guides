@@ -24,7 +24,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix) (Too heavy, read later)  
 - [X]  Book: [Eloquent JavaScript](https://eloquentjavascript.net/) (Review chapter 11, 12, 16) 
 - [ ]  Course: [Web Programming with Python and JavaScript produced by CS50](https://cs50.github.io/web/)
-- [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
+- [X]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 - [ ]  Course:  [CSS3 Master Series: The Complete CSS Selectors Course](https://www.udemy.com/css3-master-series-css3-selectors-mastery/) 
 - [ ]  Course:  [CSS3 Master Series: CSS Animations, Transforms & Transitions](https://www.udemy.com/css3-master-series-css-animations-transforms-transitions/?siteID=SAyYsTvLiGQ-LGxXd4EvbvqSAgZMUt6VyQ&LSNPUBID=SAyYsTvLiGQ)  
 - [ ]  Course:  [Mastering CSS Animations](https://app.pluralsight.com/library/courses/mastering-css-animations-2135/table-of-contents)
