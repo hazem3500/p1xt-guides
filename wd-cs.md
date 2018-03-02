@@ -27,7 +27,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [X]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 - [x]  Course:  [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/courses/155435/lectures/2312239#/questions/1)  
 - [ ]  Project: [Javascript30](https://javascript30.com/)
-- [x]  Course:  [HTML5 Canvas Fundamentals](https://app.pluralsight.com/library/courses/html5-canvas-fundamentals/table-of-contents)  
+- [ ]  Course:  [HTML5 Canvas Fundamentals](https://app.pluralsight.com/library/courses/html5-canvas-fundamentals/table-of-contents)  
 - [ ]  Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10,  and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 
