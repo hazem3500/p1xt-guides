@@ -62,7 +62,8 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 - [ ]  Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript    
 - [ ]  Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)    
-- [ ]  Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)    
+- [ ]  Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)   
+- [ ]  Book: [Test-Driven JavaScript Development](https://www.tddjs.com/)    
 - [ ]  Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)  
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages  
 - [ ]  Book: [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)  - no longer available - use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
