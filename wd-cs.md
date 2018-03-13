@@ -26,6 +26,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course: [Web Programming with Python and JavaScript produced by CS50](https://cs50.github.io/web/)
 - [X]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 - [x]  Course:  [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/courses/155435/lectures/2312239#/questions/1)  
+- [ ]  Course:  [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/)  
 - [ ]  Project: [Javascript30](https://javascript30.com/)
 - [ ]  Course:  [HTML5 Canvas Fundamentals](https://app.pluralsight.com/library/courses/html5-canvas-fundamentals/table-of-contents)  
 - [ ]  Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10,  and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
