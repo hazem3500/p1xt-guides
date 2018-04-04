@@ -46,7 +46,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
 - [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)  
 - [ ]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
-- [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)    
+- [ ]  Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)    
 - [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page  
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
@@ -58,6 +58,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Book:  [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ]  Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
 - [ ]  Course: [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
+- [ ] Book: [Don't Panic: Mobile Developer's Guide to The Galaxy](https://www.open-xchange.com/fileadmin/user_upload/Resources_Pages/Mobile_Developers_Guide/Mobile_Developers_Guide_17thEdition_Web.pdf)
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 
 ## Tier 3 - build on the foundation
@@ -75,7 +76,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 - [ ]  Project: Clone Reddit
 - [ ]  Project: Complete all ES6 Katas [here](http://es6katas.org/)
-- [ ]  Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)    
+- [ ]  Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)   
 - [ ]  Project: Complete all Classic Puzzles - Hard on [CodinGame](https://www.codingame.com/) in JavaScript    
 - [ ]  Project:  Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) 
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
@@ -103,6 +104,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course: [Machine Learning](https://www.coursera.org/learn/machine-learning)  
 - [ ]  Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it inculde a substantial AI component.
 - [ ]  Project: Complete all Classic Puzzles - Very Hard on [CodinGame](https://www.codingame.com/) in JavaScript
+- [ ]  Book: [The Philosophy of Computer Science](https://www.cse.buffalo.edu//~rapaport/Papers/phics.pdf)
 - [ ]  Course: [Operating Systems and System Programming](http://theopenacademy.com/content/operating-systems-and-system-programming)  
 - [ ]  Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)    
 - [ ]  Course: [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)   
