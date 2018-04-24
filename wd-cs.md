@@ -31,6 +31,8 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course:  [HTML5 Game Development](https://eg.udacity.com/course/html5-game-development--cs255)  
 - [ ]  Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10,  and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
+- [ ]  Book: [Web design 101](https://ebooks.webflow.com/ebook/web-design-101)
+
 
 ## Tier 2 - strengthen your foundation
 - [ ]  Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)    
