@@ -109,7 +109,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Book: [The Philosophy of Computer Science](https://www.cse.buffalo.edu//~rapaport/Papers/phics.pdf)
 - [ ]  Course: [Operating Systems and System Programming](http://theopenacademy.com/content/operating-systems-and-system-programming)  
 - [ ]  Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)    
-- [ ]  Course: [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)   
+- [ ]  Course: [Robotics Fundamentals](https://www.edx.org/course/robotics-fundamentals-pennx-robo1x)   
 - [ ]  Project: Create a node module that will convert markdown to properly formatted html
 - [ ]  Project: Create an npm module that bootstraps a fullstack application, with Node.js on the backend, and the SPA library/framework of your choice on the frontend. Include a full test suite and comprehensive build processes. Publish it to NPM.
 - [ ]  Project: Complete all problems from all rounds of the [Google Code Jam 2016](https://code.google.com/codejam/contests.html) - scroll down to the appropriate section
