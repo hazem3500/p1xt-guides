@@ -29,7 +29,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [x]  Course:  [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/)  
 - [x]  Project: [Javascript30](https://javascript30.com/) [link](https://hazem3500.github.io/javascript-30/)
 - [ ]  Course:  [HTML5 Game Development](https://eg.udacity.com/course/html5-game-development--cs255)  
-- [ ]  Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10,  and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved [link](https://hazem3500.github.io/Tower-Of-Hanoi/index.html)
+- [x]  Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10,  and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved [link](https://hazem3500.github.io/Tower-Of-Hanoi/index.html)
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 - [ ]  Book: [Web design 101](https://ebooks.webflow.com/ebook/web-design-101)
 
