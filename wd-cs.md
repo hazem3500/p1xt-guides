@@ -42,6 +42,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 - [ ]  Course: [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 - [ ]  Course: [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
+- [ ]  Course: [Intro to the Design of Everyday Things](https://classroom.udacity.com/courses/design101)
 - [ ]  Book:  [DOM Enlightenment](http://domenlightenment.com/)   
 - [ ]  Course: [Programming from A to Z](http://shiffman.net/a2z/)
 - [ ]  Project:  Simon Game from the frontend section of FCC    
@@ -61,6 +62,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Book:  [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ]  Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
 - [ ]  Course: [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
+- [ ]  Course: [User Experience (UX) Research and Design](https://www.edx.org/micromasters/michiganx-user-experience-ux-research-and-design)
 - [ ] Book: [Don't Panic: Mobile Developer's Guide to The Galaxy](https://www.open-xchange.com/fileadmin/user_upload/Resources_Pages/Mobile_Developers_Guide/Mobile_Developers_Guide_17thEdition_Web.pdf)
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 
